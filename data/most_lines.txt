@@ -1,0 +1,12 @@
+ 0 ./writing/committee_meeting/career_stuff.md
+ 0 ./writing/committee_meeting/future_directions.md
+ 0 ./writing/committee_meeting/possible_pitfalls.md
+ 4 ./writing/committee_meeting/pres_notes.md
+   4 ./writing/thesis/chapter_two.txt
+  13 ./inf_lengths.txt
+  16 ./writing/haiku.txt
+  19 ./sorted_lengths.txt
+   60 ./inflammation-11.csv
+   60 ./inflammation-12.csv
+  101 ./car-speeds.csv
+  101 ./car-speeds-cleaned.csv

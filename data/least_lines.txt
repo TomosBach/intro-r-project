@@ -1,0 +1,3 @@
+    2 ./small-01.csv
+   0 ./file.txt
+ 0 ./writing/committee_meeting/career_stuff.md
